@@ -25,7 +25,12 @@ public class D {
         System.out.println("MD2");
     }
 
+<<<<<<< HEAD
     public void MD3(){
         System.out.println("MD3");
+=======
+    public void MD4(){
+        System.out.println("MD4");
+>>>>>>> 0e84d311d31b04d3fad88ddf8f2d09c0f28dbb19
     }
 }
